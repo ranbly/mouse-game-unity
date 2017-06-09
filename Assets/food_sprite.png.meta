@@ -1,0 +1,2173 @@
+fileFormatVersion: 2
+guid: 3069af200abac4bf383a74b6de35ee5d
+timeCreated: 1481652931
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: food_sprite_0
+    21300002: food_sprite_1
+    21300004: food_sprite_2
+    21300006: food_sprite_3
+    21300008: food_sprite_4
+    21300010: food_sprite_5
+    21300012: food_sprite_6
+    21300014: food_sprite_7
+    21300016: food_sprite_8
+    21300018: food_sprite_9
+    21300020: food_sprite_10
+    21300022: food_sprite_11
+    21300024: food_sprite_12
+    21300026: food_sprite_13
+    21300028: food_sprite_14
+    21300030: food_sprite_15
+    21300032: food_sprite_16
+    21300034: food_sprite_17
+    21300036: food_sprite_18
+    21300038: food_sprite_19
+    21300040: food_sprite_20
+    21300042: food_sprite_21
+    21300044: food_sprite_22
+    21300046: food_sprite_23
+    21300048: food_sprite_24
+    21300050: food_sprite_25
+    21300052: food_sprite_26
+    21300054: food_sprite_27
+    21300056: food_sprite_28
+    21300058: food_sprite_29
+    21300060: food_sprite_30
+    21300062: food_sprite_31
+    21300064: food_sprite_32
+    21300066: food_sprite_33
+    21300068: food_sprite_34
+    21300070: food_sprite_35
+    21300072: food_sprite_36
+    21300074: food_sprite_37
+    21300076: food_sprite_38
+    21300078: food_sprite_39
+    21300080: food_sprite_40
+    21300082: food_sprite_41
+    21300084: food_sprite_42
+    21300086: food_sprite_43
+    21300088: food_sprite_44
+    21300090: food_sprite_45
+    21300092: food_sprite_46
+    21300094: food_sprite_47
+    21300096: food_sprite_48
+    21300098: food_sprite_49
+    21300100: food_sprite_50
+    21300102: food_sprite_51
+    21300104: food_sprite_52
+    21300106: food_sprite_53
+    21300108: food_sprite_54
+    21300110: food_sprite_55
+    21300112: food_sprite_56
+    21300114: food_sprite_57
+    21300116: food_sprite_58
+    21300118: food_sprite_59
+    21300120: food_sprite_60
+    21300122: food_sprite_61
+    21300124: food_sprite_62
+    21300126: food_sprite_63
+    21300128: food_sprite_64
+    21300130: food_sprite_65
+    21300132: food_sprite_66
+    21300134: food_sprite_67
+    21300136: food_sprite_68
+    21300138: food_sprite_69
+    21300140: food_sprite_70
+    21300142: food_sprite_71
+    21300144: food_sprite_72
+    21300146: food_sprite_73
+    21300148: food_sprite_74
+    21300150: food_sprite_75
+    21300152: food_sprite_76
+    21300154: food_sprite_77
+    21300156: food_sprite_78
+    21300158: food_sprite_79
+    21300160: food_sprite_80
+    21300162: food_sprite_81
+    21300164: food_sprite_82
+    21300166: food_sprite_83
+    21300168: food_sprite_84
+    21300170: food_sprite_85
+    21300172: food_sprite_86
+    21300174: food_sprite_87
+    21300176: food_sprite_88
+    21300178: food_sprite_89
+    21300180: food_sprite_90
+    21300182: food_sprite_91
+    21300184: food_sprite_92
+    21300186: food_sprite_93
+    21300188: food_sprite_94
+    21300190: food_sprite_95
+    21300192: food_sprite_96
+    21300194: food_sprite_97
+    21300196: food_sprite_98
+    21300198: food_sprite_99
+    21300200: food_sprite_100
+    21300202: food_sprite_101
+    21300204: food_sprite_102
+    21300206: food_sprite_103
+    21300208: food_sprite_104
+    21300210: food_sprite_105
+    21300212: food_sprite_106
+    21300214: food_sprite_107
+    21300216: food_sprite_108
+    21300218: food_sprite_109
+    21300220: food_sprite_110
+    21300222: food_sprite_111
+    21300224: food_sprite_112
+    21300226: food_sprite_113
+    21300228: food_sprite_114
+    21300230: food_sprite_115
+    21300232: food_sprite_116
+    21300234: food_sprite_117
+    21300236: food_sprite_118
+    21300238: food_sprite_119
+    21300240: food_sprite_120
+    21300242: food_sprite_121
+    21300244: food_sprite_122
+    21300246: food_sprite_123
+    21300248: food_sprite_124
+    21300250: food_sprite_125
+    21300252: food_sprite_126
+    21300254: food_sprite_127
+    21300256: food_sprite_128
+    21300258: food_sprite_129
+    21300260: food_sprite_130
+    21300262: food_sprite_131
+    21300264: food_sprite_132
+    21300266: food_sprite_133
+    21300268: food_sprite_134
+    21300270: food_sprite_135
+    21300272: food_sprite_136
+    21300274: food_sprite_137
+    21300276: food_sprite_138
+    21300278: food_sprite_139
+    21300280: food_sprite_140
+    21300282: food_sprite_141
+    21300284: food_sprite_142
+    21300286: food_sprite_143
+    21300288: food_sprite_144
+    21300290: food_sprite_145
+    21300292: food_sprite_146
+    21300294: food_sprite_147
+    21300296: food_sprite_148
+    21300298: food_sprite_149
+    21300300: food_sprite_150
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: food_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 469
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 469
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 469
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 468
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 469
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 468
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 437
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 438
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 438
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 437
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 437
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 405
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 405
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 372
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 371
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 372
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 372
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 372
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 339
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 339
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 339
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 339
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 339
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 339
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 339
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 184
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 184
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_107
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 110
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_109
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 109
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 108
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 107
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_114
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_117
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_118
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_119
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_120
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 60
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_121
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_122
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_123
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_124
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_125
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_127
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_128
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_129
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_131
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_133
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_134
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_135
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_136
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_137
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_138
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_139
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_140
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_141
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 31
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_142
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_143
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_144
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_145
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_146
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_147
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_148
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_149
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_sprite_150
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
